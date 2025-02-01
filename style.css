@@ -1078,7 +1078,7 @@ input[type=range]::-moz-focus-outer {
 .form-switch input[type="checkbox"]:checked+label>span:first-child{
   left: 1.75rem;
   --tw-bg-opacity: 1;
-  background-color: rgb(99 102 241 / var(--tw-bg-opacity));
+  background-color: rgb(120 219 251 / var(--tw-bg-opacity));
 }
 
 .form-input:focus, 
@@ -2038,7 +2038,7 @@ input[type=range]::-moz-focus-outer {
 }
 
 .fill-indigo-500{
-  fill: #6366f1;
+  fill: #78dafb;
 }
 
 .fill-current{
@@ -2244,7 +2244,7 @@ input[type=range]::-moz-focus-outer {
 
 .text-indigo-500{
   --tw-text-opacity: 1;
-  color: rgb(99 102 241 / var(--tw-text-opacity));
+  color: rgb(120 219 251 / var(--tw-text-opacity));
 }
 
 .text-emerald-500{
@@ -2396,7 +2396,7 @@ input[type=range]::-moz-focus-outer {
 
 .hover\:bg-indigo-600:hover{
   --tw-bg-opacity: 1;
-  background-color: rgb(79 70 229 / var(--tw-bg-opacity));
+  background-color: rgb(91 168 194 / var(--tw-bg-opacity));
 }
 
 .hover\:bg-slate-600:hover{
