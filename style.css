@@ -839,7 +839,7 @@ select{
 
 @media (min-width: 768px) {
   .h1{
-    font-size: 5rem;
+    font-size: 4rem;
     line-height: 1;
     letter-spacing: -0.017em;
   }
